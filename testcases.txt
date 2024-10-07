@@ -1,0 +1,14 @@
+Vadim paper 10
+Vadim paper 5
+Dima paper 3
+Dima apple 12
+Kirill picture 5
+Dima picture 10
+Vadim cat 1
+
+Vadim car 1
+Kirill car 1
+Dima car 10000
+Vadim kfc 231
+Dima kfc 9999
+Kirill Civic 123
